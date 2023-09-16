@@ -28,7 +28,7 @@
 ##### 🤝 Contribuições São Bem-Vindas!
 
 ###### Se você é um desenvolvedor interessado em contribuir para este projeto, fique à vontade para abrir uma solicitação de pull. A colaboração é fundamental para aprimorar e expandir essa ferramenta.
-###👩‍💻 Como Executar
+### 👩‍💻 Como Executar
 
     Clone este repositório em sua máquina local.
     Certifique-se de ter Python 3.x e a biblioteca Tkinter instalados.
